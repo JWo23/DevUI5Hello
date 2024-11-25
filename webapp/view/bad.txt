@@ -1,0 +1,3 @@
+             <core:Fragment 
+           fragmentName="sap.btp.jwohello.view.FinfoTest" 
+           type="XML" />

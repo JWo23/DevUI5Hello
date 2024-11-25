@@ -1,6 +1,10 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sap.btp.jwohello.controller.Master">
     <Page id="pageId1" title="{i18n>title}">
+
+
     <content>
+
+
         <Button xmlns="sap.m" text="Hallo JWo" id="button0"/>
         <Image id="img001" width="10%" height="10%"  src="https://www.sap.com/content/dam/application/shared/logos/sap-logo.png"/> 
         <Carousel id="funId001" showPageIndicator="true" loop="true" height="50%" class= "jwoPinkBackground">
